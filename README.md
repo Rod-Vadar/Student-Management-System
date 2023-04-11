@@ -19,9 +19,34 @@ I used www.trello.com to implement the agile approach.
 
 #### User Relevance
 * As a user I want the admin interface to be simple to use.  I want the action buttons to be visible.
-* I want to be able to easily add a new record.
-* I want to be able to update the record.
-* I want to be able to delete the record when a student leaves.
+* I want to be able to easily add a new record when a new student joins the college.
+* I want to be able to update or change the details on the record about the student.
+* I want to be able to delete the record when a student leaves the college.
+
+## Tasks
+For this project I imagined a website with a simple interface on the landing page which college admin staff could access and add and change student records easily.
+
+I created a simple wireframe using Balsamiq
+I created the project in github and started it with codepsaces.
+I set up the templates.
+I used a css template from Bootswatch (zephyr) to style the site using bootstrap.
+
+##  Design CSS Style
+The style of the site comes from https://bootswatch.com/zephyr/
+
+![Zephyr Design](./user%20images/design.png)
+
+## Wireframe
+
+![Wireframe](./user%20images/student_wire.png)
+
+## Actual Design
+
+![actual Design](./user%20images/actual_design_1.png)
+
+![actual Design](./user%20images/actual_design_2.png)
+
+
 
 
 
